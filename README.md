@@ -2,6 +2,14 @@
 
 Shaped Trees is a procedural art engine designed to grow fractal trees that fit perfectly inside specific shapes. Unlike standard fractals that just grow outward forever, this system uses a "crawl back" strategy to fill every corner of a boundary (like a heart or a star) without any branches overlapping.
 
+## Examples
+
+| Circle | Heart | Star | Hexagon |
+| :---: | :---: | :---: | :---: |
+| ![Circle](circle.png) | ![Heart](heart.png) | ![Star](star.png) | ![Hexagon](hexagon.png) |
+| **Square** | **Rectangle** | | |
+| ![Square](square.png) | ![Rectangle](Rectangle.png) | | |
+
 ## Key Features
 
 *   **Implicit & Polygon Boundaries**: Supports complex mathematical shapes (Heart curve) and arbitrary polygons (Star, Hexagon, Rectangle) using a Ray Casting Point-in-Polygon algorithm.
