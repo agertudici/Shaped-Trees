@@ -6,9 +6,9 @@ Shaped Trees is a procedural art engine designed to grow fractal trees that fit 
 
 | Circle | Heart | Star | Hexagon |
 | :---: | :---: | :---: | :---: |
-| ![Circle]([circle.png](https://github.com/agertudici/Shaped-Trees/blob/main/examples/circle.png)) | ![Heart]([heart.png](https://github.com/agertudici/Shaped-Trees/blob/main/examples/heart.png)) | ![Star]([star.png](https://github.com/agertudici/Shaped-Trees/blob/main/examples/star.png)) | ![Hexagon]([hexagon.png](https://github.com/agertudici/Shaped-Trees/blob/main/examples/hexagon.png)) |
+| ![Circle](https://github.com/agertudici/Shaped-Trees/blob/main/examples/circle.png) | ![Heart](https://github.com/agertudici/Shaped-Trees/blob/main/examples/heart.png) | ![Star](https://github.com/agertudici/Shaped-Trees/blob/main/examples/star.png) | ![Hexagon](https://github.com/agertudici/Shaped-Trees/blob/main/examples/hexagon.png) |
 | **Square** | **Rectangle** | | |
-| ![Square]([square.png](https://github.com/agertudici/Shaped-Trees/blob/main/examples/square.png)) | ![Rectangle]([Rectangle.png](https://github.com/agertudici/Shaped-Trees/blob/main/examples/rectangle.png)) | | |
+| ![Square](https://github.com/agertudici/Shaped-Trees/blob/main/examples/square.png) | ![Rectangle](https://github.com/agertudici/Shaped-Trees/blob/main/examples/rectangle.png) | | |
 
 ## Key Features
 
